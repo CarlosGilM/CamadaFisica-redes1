@@ -7,7 +7,8 @@ NOTA DO TRABALHO (100 / 100)
 
  # Execução
 <img src="assets/execucaoCF.gif">
-Execução parcial do programa.
+Execução parcial do programa.<br/>
+Algumas Informações são exibidas no terminal.
 
 # Autores
 [@CarlosGilM](https://github.com/CarlosGilM)
